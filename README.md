@@ -182,6 +182,7 @@
 | Service | Description | Availability |
 |---------|-------------|-------------|
 | 🔧 **Backend Development** | APIs, microservices, database design | ✅ Available |
+| 🔧 **Frontend Development** | Responsive UI, Vue.js, HTML/CSS, JavaScript, UX | ✅ Available |
 | 🌐 **Full Stack Development** | End-to-end web applications | ✅ Available |
 | 👨‍💼 **Technical Leadership** | Team lead, architecture, mentoring | ✅ Available |
 | 📋 **Project Management** | Agile/Scrum, planning, execution | ✅ Available |
@@ -194,11 +195,11 @@
 
 ## 🌟 What I'm Working On
 
-- 🔥 **Open Source Contributions:** Contributing to Django and FastAPI ecosystem
+<!-- - 🔥 **Open Source Contributions:** Contributing to Django and FastAPI ecosystem -->
 - 📚 **Learning:** Advanced Kubernetes and Terraform
 - 🎯 **Building:** SaaS platform for small businesses
-- 📖 **Writing:** Technical articles on system design and best practices
-- 🗣️ **Speaking:** Preparing tech talks on API design patterns
+- 📖 **Writing:** Technical articles on software development and best practices
+<!-- - 🗣️ **Speaking:** Preparing tech talks on API design patterns -->
 
 ---
 
