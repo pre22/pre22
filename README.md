@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Chika Precious Benjamin!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Backend+Specialist+%7C+Python+%26+FastAPI;Team+Leader+%7C+5%2B+Years+Experience;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Backend+Specialist+%7C+Python+%26+FastAPI;Team+Leader+%7C+8%2B+Years+Experience;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,12 +15,12 @@
 
 ## 🚀 About Me
 
-> **Results-driven Full Stack Software Developer** with **5+ years** of experience building scalable web applications, mobile apps, and leading development teams. Currently specializing in **Python & FastAPI** backend development.
+> **Results-driven Full Stack Software Developer** with **8+ years** of experience building scalable web applications, mobile apps, and leading development teams. Currently specializing in **Python, Django, FastAPI, Javascript, Node.js & Express.js** backend development.
 
 - 🔭 **Currently working as:** Backend Developer (Python & FastAPI)
 - 🌱 **Always learning:** Advanced system architecture and cloud technologies
 - 👥 **Team Leadership:** Led teams of 8+ developers, mentored juniors
-- 📊 **Impact:** Built applications serving 500+ users with 40% improved engagement
+- 📊 **Impact:** Built applications serving 30K+ users with 40% improved engagement
 - 🌍 **Location:** Port Harcourt, Nigeria (Open to remote work globally)
 - ⚡ **Fun fact:** I've improved trading efficiency by 25% with algorithmic bots!
 
@@ -122,7 +122,7 @@
 <td width="50%">
 
 **🔧 Backend Specialist**
-- Built REST APIs serving 500+ users
+- Built REST APIs serving 30K+ users
 - Optimized database queries (30% faster)
 - Microservices architecture design
 - Real-time data processing systems
