@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Chika Precious Benjamin!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Backend+Specialist+%7C+Python+%26+FastAPI;Team+Leader+%7C+8%2B+Years+Experience;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Backend+Specialist+%7C+Python+%26+FastAPI;Blockchain+Developer+%7C+Solidity+%26+Web3;Team+Leader+%7C+8%2B+Years+Experience;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-> **Results-driven Full Stack Software Developer** with **8+ years** of experience building scalable web applications, mobile apps, and leading development teams. Currently specializing in **Python, Django, FastAPI, Javascript, Node.js & Express.js** backend development.
+> **Results-driven Full Stack Software Developer** with **8+ years** of experience building scalable web applications, mobile apps, and leading development teams. Currently specializing in **Python, Django, FastAPI, Javascript, Node.js, Express.js & Blockchain** development.
 
 - 🔭 **Currently working as:** Backend Developer (Python & FastAPI)
-- 🌱 **Always learning:** Advanced system architecture and cloud technologies
+- 🌱 **Always learning:** Advanced system architecture, cloud technologies & Web3
 - 👥 **Team Leadership:** Led teams of 8+ developers, mentored juniors
 - 📊 **Impact:** Built applications serving 30K+ users with 40% improved engagement
 - 🌍 **Location:** Port Harcourt, Nigeria (Open to remote work globally)
@@ -46,6 +46,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Blockchain Development
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -106,6 +112,12 @@
 - **Features:** License key authentication, responsive UI, API integration
 - **Platform:** Windows, macOS, Linux compatible
 
+### ⛓️ [Smart Contract Suite](https://github.com/pre22/smart-contracts)
+> **Decentralized applications and smart contracts**
+- **Tech Stack:** Solidity, Remix, Web3.js, Ethereum
+- **Features:** Token contracts, NFT marketplace, DeFi protocols
+- **Network:** Ethereum, Polygon compatible
+<!-- - 🔗 [Live Demo](https://your-dapp-demo.com) | 📚 [Documentation](https://github.com/pre22/smart-contracts/wiki) -->
 
 ### 🔌 [WordPress Plugin Collection](https://github.com/pre22/wp-plugins)
 > **Custom WordPress plugins extending platform functionality**
@@ -158,6 +170,26 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**⛓️ Blockchain Development**
+- Smart contract development (Solidity)
+- DApp development with Web3.js
+- Token & NFT contract creation
+- DeFi protocol implementation
+
+</td>
+<td width="50%">
+
+**🔐 Security & Best Practices**
+- Secure smart contract auditing
+- API security & authentication
+- Database security optimization
+- Code review & quality assurance
+
+</td>
+</tr>
 </table>
 
 ---
@@ -187,6 +219,7 @@
 | 👨‍💼 **Technical Leadership** | Team lead, architecture, mentoring | ✅ Available |
 | 📋 **Project Management** | Agile/Scrum, planning, execution | ✅ Available |
 | 🤖 **Automation & Bots** | Trading bots, workflow automation | ✅ Available |
+| ⛓️ **Blockchain Development** | Smart contracts, DApps, Web3 integration | ✅ Available |
 | ☁️ **DevOps & Deployment** | AWS, Docker, CI/CD setup | ✅ Available |
 
 </div>
@@ -211,13 +244,14 @@ class ChikaBenjamin:
         self.name = "Chika Precious Benjamin"
         self.role = "Full Stack Software Developer"
         self.location = "Port Harcourt, Nigeria"
-        self.languages = ["Python", "JavaScript", "PHP", "SQL"]
-        self.current_focus = "Backend Development with Python & FastAPI"
+        self.languages = ["Python", "JavaScript", "PHP", "SQL", "Solidity"]
+        self.current_focus = "Backend Development & Blockchain Solutions"
         self.available_for = ["Remote Work", "Freelance", "Contract", "Full-time"]
         
     def current_projects(self):
         return [
             "Building scalable microservices",
+            "Developing smart contracts",
             "Contributing to open source",
             "Writing technical articles",
             "Mentoring junior developers"
@@ -228,7 +262,8 @@ class ChikaBenjamin:
             "Built my first web app at university",
             "Love solving complex algorithmic problems",
             "Passionate about clean, maintainable code",
-            "Always excited about new technologies"
+            "Always excited about new technologies",
+            "Exploring Web3 and blockchain innovation"
         ]
 ```
 
@@ -245,6 +280,7 @@ class ChikaBenjamin:
 - **Freelance & Contract Projects**
 - **Technical Consulting**
 - **Team Leadership Roles**
+- **Blockchain & Web3 Projects**
 - **Open Source Collaborations**
 
 <a href="mailto:pre.chika.22@gmail.com">
